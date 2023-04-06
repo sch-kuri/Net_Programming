@@ -1,0 +1,10 @@
+Thu Apr 06 19:13:08 2023: Device1: Temp=31, Humid=18, Iilum=101
+Thu Apr 06 19:13:08 2023: Device1: Temp=22, Humid=31, Iilum=81
+Thu Apr 06 19:13:09 2023: Device1: Temp=32, Humid=0, Iilum=79
+Thu Apr 06 19:13:10 2023: Device1: Temp=39, Humid=44, Iilum=105
+Thu Apr 06 19:13:11 2023: Device1: Temp=1, Humid=76, Iilum=134
+Thu Apr 06 19:14:12 2023: Device2: Heartbeat=93, Steps=2515, Cal=3381
+Thu Apr 06 19:14:13 2023: Device2: Heartbeat=123, Steps=2084, Cal=3249
+Thu Apr 06 19:14:13 2023: Device2: Heartbeat=133, Steps=3223, Cal=3963
+Thu Apr 06 19:14:14 2023: Device2: Heartbeat=78, Steps=3544, Cal=3252
+Thu Apr 06 19:14:15 2023: Device2: Heartbeat=47, Steps=5156, Cal=1137
